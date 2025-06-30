@@ -9,7 +9,6 @@ CryptexGCM is a Python-based AES-GCM file encryption tool that provides secure, 
 - ✅ **AES-GCM encryption** with 256-bit keys
 - ✅ **One-line usage** for encrypt/decrypt
 - ✅ **Custom exception handling** (`CryptexGCMException`)
-- ✅ **Clean OOP structure**
 - ✅ **File-safe output (nonce + ciphertext)**
 - ✅ **Lightweight, no external dependencies except `cryptography`**
 
